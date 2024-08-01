@@ -1,3 +1,6 @@
+C Soft and Active Matter lab IIT(BHU) Varanasi India 211005.
+C   Group link  https://matactsm.wixsite.com/my-site
+
 c   The Code for Parallel and Random-sequential update rules.
 
 c      (a) For Parallel Update rule
